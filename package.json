@@ -3,10 +3,12 @@
 	"version": "0.0.1",
     "private": true,
 	"scripts": {
-		"start": "node app.js"
+		"start": "node app.js",
+		"test" : "mocha"
 	},
 	"dependencies": {
 		"express": "4.13.x",
+		"mocha" : "*",
 		"cfenv": "1.0.x"
 	},
 	"repository": {},
