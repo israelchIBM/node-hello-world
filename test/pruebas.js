@@ -1,2 +1,2 @@
 console.log("Funciono");
-throw Error("Hay un error, no instalar");
+//throw Error("Hay un error, no instalar");
